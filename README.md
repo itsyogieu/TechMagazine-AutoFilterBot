@@ -51,12 +51,13 @@ You can deploy this bot anywhere.
 
 <a target="_blank" href="https://render.com/deploy?repo=https://github.com/itsyogieu/TechMagazine-AutoFilterBot"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
 
+<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/itsyogieu/TechMagazine-AutoFilterBot"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
 
-<details><summary>Deploy To Heroku</summary>
+
 <p>
 
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsyogieu/TechMagazine-AutoFilterBot)
+
 
 </p>
 </details>
