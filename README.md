@@ -49,7 +49,7 @@ You can deploy this bot anywhere.
 
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/itsyogieu/TechMagazine-AutoFilterBot&branch=master&name=tmafbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/itsyogieu/TechMagazineAutoFilterBot)
+<a target="_blank" href="https://render.com/deploy?repo=https://github.com/itsyogieu/TechMagazine-AutoFilterBot"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
 
 
 <details><summary>Deploy To Heroku</summary>
